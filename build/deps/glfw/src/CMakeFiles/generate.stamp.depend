@@ -1,0 +1,3 @@
+# CMake generation dependency list for this directory.
+C:/dev/opengl/tutorial/deps/glfw/CMake/glfw3.pc.in
+C:/dev/opengl/tutorial/deps/glfw/src/CMakeLists.txt
